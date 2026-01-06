@@ -3,7 +3,8 @@ These files aid you in creating ColorCorrections for the source engine using thi
 While Photoshop can natively read and write RAW formats, many others can not.
 
 Requirements: FFMPEG + Gimp (Any image editor with Non-Destructive adjustment layers works.)<br>
-To install FFMPEG, open CMD and run `Winget Install FFMPEG`
+To install FFMPEG, open CMD and run `Winget Install FFMPEG`<br>
+Manual install explained here `https://phoenixnap.com/kb/ffmpeg-windows`
 
 Usage:
 1. Load map
