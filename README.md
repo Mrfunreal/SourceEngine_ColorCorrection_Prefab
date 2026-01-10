@@ -11,7 +11,8 @@ Usage:
 2. Disable CC entities via `Mat_ColCorrection_DisableEntities 1`<br>
    Some games require `script Convars.SetValue("Mat_ColCorrection_DisableEntities",1)`<br>
    Others need the launch setting `+Mat_ColCorrection_DisableEntities 1`
-3. Take screenshots, close game
+3. Take screenshots, close game<br>
+toggle viewmodel and hud with `bind <key> "toggle r_drawvgui;toggle r_drawviewmodel"`
 4. Load screenshot into image editor, add ColorChart.tga onto it.
 5. Adjust colors using the adjustment layers (In gimp, grouping of images, and color adjusment to the group is needed)
 6. Apply the adjustments to only the colorchart.
