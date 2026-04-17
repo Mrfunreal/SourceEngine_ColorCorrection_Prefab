@@ -19,3 +19,5 @@ toggle viewmodel and hud with `bind <key> "toggle r_drawvgui;toggle r_drawviewmo
 7. Export modified colorchard as a TGA (No edits to resolution or lossy compression - Gimp's "RLE compression" is lossless)
 8. Drag TGA onto Convert_CC.bat.
 9. Rename the new .Raw file according to your needs
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A11XXM4Q)
