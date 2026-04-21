@@ -20,4 +20,4 @@ toggle viewmodel and hud with `bind <key> "toggle r_drawvgui;toggle r_drawviewmo
 8. Drag TGA onto Convert_CC.bat.
 9. Rename the new .Raw file according to your needs
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A11XXM4Q)
+<a href="https://ko-fi.com/A0A11XXM4Q">  <img src="https://raw.githubusercontent.com/Mrfunreal/Various/refs/heads/main/images/Ko-Fi_smaller.png" width="50%"></a><br>
